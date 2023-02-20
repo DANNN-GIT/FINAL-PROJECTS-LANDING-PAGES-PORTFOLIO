@@ -4,3 +4,4 @@ Keperluan Sistem
  - Membuat Flowchart
  - Membuat ERD
  - Membuat database menggunakan MySQL
+ - Melakukan normalisasi database
