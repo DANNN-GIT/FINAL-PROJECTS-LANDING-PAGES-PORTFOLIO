@@ -1,0 +1,6 @@
+Saya ingin bergabung dengan repositori ini untuk mengembangan landing page portofolio yang telah Anda buat
+
+Keperluan Sistem
+ - Membuat Flowchart
+ - Membuat ERD
+ - Membuat database menggunakan MySQL
