@@ -2,3 +2,4 @@ Saya ingin bergabung dengan repositori ini untuk mengembangan landing page porto
 
 Keperluan Sistem
  - Membuat Flowchart
+ - Membuat ERD
